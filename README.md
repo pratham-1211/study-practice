@@ -1,4 +1,4 @@
-# study-practice
+# git-practice
 PracticeProject
 
 First file on git.

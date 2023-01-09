@@ -22,8 +22,7 @@ public class StaticDropDown {
 				By.xpath("//div[@class='single_tab_div resp-tab-content resp-tab-content-active']//p//select"));
 
 		Select sl = new Select(elements);
-		sl.selectByValue("IND");
-
+		
 		Thread.sleep(1000);
 
 		driver.close();
